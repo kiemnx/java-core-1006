@@ -4,6 +4,10 @@ public class HelloJava {
 
     public static void main(String[] args) {
 
-        System.out.println("This is first Java project");
+        int age;
+        int number = 10;
+        int numBer = 20;
+
+        System.out.println(numBer);
     }
 }
