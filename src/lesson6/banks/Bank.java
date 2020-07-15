@@ -1,7 +1,5 @@
 package lesson6.banks;
 
-@Getter
-@Setter
 public class Bank {
     private String name;
     private String logo;
